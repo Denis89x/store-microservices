@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discovery-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/discovery-server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inventory-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/inventory-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway/microservices.api-gateway.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway/microservices.api-gateway.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discovery-server/microservices.discovery-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/discovery-server/microservices.discovery-server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inventory-service/microservices.inventory-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/inventory-service/microservices.inventory-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/notification-service/microservices.notification-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/notification-service/microservices.notification-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order-service/microservices.order-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/order-service/microservices.order-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product-service/microservices.product-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/product-service/microservices.product-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/notification-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/notification-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/order-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/order-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/product-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/product-service.main.iml" />
+    </modules>
+  </component>
+</project>
